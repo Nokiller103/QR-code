@@ -1,4 +1,4 @@
-const qr = require("qrcode")
+const QRCode = require('qrcode');
 
 // The data you want to encode in the QR code
 const url = 'https://civil-balurghat-live-5r83.vercel.app/';
